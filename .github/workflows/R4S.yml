@@ -1,3 +1,9 @@
+#=================================================
+# Description: Build OpenWrt using GitHub Actions
+# Lisence: MIT
+# Author: zjkhy94
+#=================================================
+
 name: Build_NanoPi_R4S
 
 on: 
