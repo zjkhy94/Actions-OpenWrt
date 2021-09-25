@@ -14,7 +14,7 @@ You could edit and enable "Sync Code" YAML file to let your forked repo keep upd
 
 **1. Prerequisite**
   - Sign up for [GitHub Actions](https://github.com/features/actions/signup)
-  - Fork [this GitHub repository](https://github.com/zjkhy94/AutoBuild-OpenWrt/AutoBuild-OpenWrt)
+  - Fork [this GitHub repository](https://github.com/zjkhy94/Actions-OpenWrt)
     
 **2. Compile Firmware**
   - Click `[.github/workflows]` folder on the top of repo and you could see few workflow files, Each for one particular architecture(device).
