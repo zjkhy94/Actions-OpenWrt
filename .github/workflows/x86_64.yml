@@ -1,9 +1,3 @@
-#=================================================
-# Description: Build OpenWrt using GitHub Actions
-# Lisence: MIT
-# Author: zjkhy94
-#=================================================
-
 name: Build_x86_64
 
 on: 
