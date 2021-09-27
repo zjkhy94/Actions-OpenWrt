@@ -69,7 +69,7 @@ jobs:
     - name: Import external feeds - luci-app-pushbot
       working-directory: ./openwrt
       run: |
-        git clone https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot package/luci-app-pushbot
+        git clone https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot 
   
     #- name: Import external feeds - passwall
     #  working-directory: ./openwrt
